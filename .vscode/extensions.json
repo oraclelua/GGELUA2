@@ -1,0 +1,19 @@
+{
+    "recommendations": [
+        //"CodeInChinese.EnglishChineseDictionary",本地词典
+        "CodeInChinese.ChineseInputAssistant", //中文代码快速补全
+        //"vinicioslc.adb-interface-vscode",
+        //"Atishay-Jain.All-Autocomplete",
+        "aaron-bond.better-comments", //括号匹配
+        //"alefragnani.Bookmarks",//书签
+        "ms-ceintl.vscode-language-pack-zh-hans", //简体中文
+        "volkerdobler.insertnums", //Insert Numbers
+        "obkoro1.korofileheader", //头生成
+        "tomblind.local-lua-debugger-vscode", //Local Lua Debugger
+        "sumneko.lua", //Lua
+        "karlsander.run-button", //Run Button
+        "cnshenj.vscode-task-manager", //task-manager
+        "wayou.vscode-todo-highlight", //TODO Highlight
+        "vscode-icons-team.vscode-icons", //vscode-icons
+    ]
+}
